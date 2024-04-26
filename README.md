@@ -25,7 +25,7 @@ The application features a responsive design, ensuring optimal viewing and funct
 
 Event Management Planner aims to simplify the event planning process, providing users with the tools and features needed to plan, organize, and execute successful events with ease.
 
-# Getting Started
+# * Getting Started
 To get started with Event Management Planner, follow these steps:
 
 # Clone Repository: 
